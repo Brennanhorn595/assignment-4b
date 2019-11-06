@@ -20,7 +20,7 @@ aside {
 }
 
 footer {
-
+font-size: 100%;
 }
 
 header {
@@ -36,7 +36,8 @@ main {
 }
 
 nav {
-
+float: left;
+margin: 23px;
 }
 
 #copyright {
